@@ -1,0 +1,17 @@
+{
+    "name": "cirnatdan/kacars_free",
+    "description": "Package for kACARS_FREE phpvms module",
+    "license": "Attribution-NonCommercial-ShareAlike 3.0",
+    "authors": [
+        {
+            "name": "Dan Cirnat",
+            "email": "dan@alt.md"
+        }
+    ],
+    "require": {
+
+    },
+    "autoload": {
+        "classmap": ["src/"]
+    }
+}
