@@ -1,6 +1,6 @@
 {
-    "name": "cirnatdan/kacars_free",
-    "description": "Package for kACARS_FREE phpvms module",
+    "name": "cirnatdan/acars-php-modules",
+    "description": "Collection of *ACARS_phpvms modules",
     "license": "Attribution-NonCommercial-ShareAlike 3.0",
     "authors": [
         {
